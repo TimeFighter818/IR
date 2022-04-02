@@ -1,0 +1,18 @@
+1 type cast usages?
+const_cast
+static_cast
+dynamic_cast
+reinterpret_cast
+
+2 smart pointer?
+unique_ptr
+shared_ptr
+weak_ptr
+
+follow-up: implementation?
+reference count
+
+3 auto vs decltype?
+
+follow-up: implementation?
+
